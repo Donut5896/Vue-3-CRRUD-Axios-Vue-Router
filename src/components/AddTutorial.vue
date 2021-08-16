@@ -29,7 +29,7 @@
             <h4>You Submitted successfully!</h4>
             <button class="btn btn-success" @click="newTutorial">Add</button>
         </div>
-    </div>
+    </div>      
 </template>
 
 
